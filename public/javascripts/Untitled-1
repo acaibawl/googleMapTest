@@ -1,0 +1,34 @@
+let mapConf = {
+    'key' : 'aomori',
+    'center_lat' : '40.828187',
+    'center_lng' : '140.738800',
+    'zoom' : 14,
+    'markerData' : {
+        'name': 'asupamu',
+        'lat' : '40.829599',
+        'lng' : '140.741032',
+        'content' : 'アスパム'
+        },
+        'name': 'auga',
+        'lat' : '40.827149',
+        'lng' : '140.735772',
+        'content' : 'アウガ'
+        }
+    },
+    'key': 'hirosaki',
+    'center_lat' : '40.603941',
+    'center_lng' : '140.475992',
+    'zoom' : 14,
+    'markerData' : array{
+        'name': 'hirosakizyo',
+        'lat' : '40.607444',
+        'lng' : '140.464201',
+        'content' : '弘前城'
+        },
+        'name': 'hirosakieki',
+        'lat' : '40.599114',
+        'lng' : '140.485097',
+        'content' : '弘前駅'
+        },
+    },
+};
